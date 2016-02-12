@@ -112,7 +112,7 @@ tau_stata = reshape(tau_stata,N,N);
 % that sim_trade_pattern_ek_mex, uses a simmulation approach to construct
 % the pattern of trade. 
 
-[m_stata, ~] = sim_trade_pattern_ek_mex(exp(ssd_stata),tau_stata,theta,1.5,1);
+[m_stata, ~] = sim_trade_pattern_ek(exp(ssd_stata),tau_stata,theta,1.5,1);
 % This .mex file should run on (at least) Matlab 14a and later. 
 
 figure
