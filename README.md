@@ -8,5 +8,5 @@ This code does several things...
 
 (2) This code then ports in the estimates from STATA into MATLAB. Within MATLAB, there are two options on how to construct trade costs depending upon your view of the them (i.e. the asymmetric component is on the import side as in EK(2002) or the asymmetric componenet is on the export side as in Waugh (2010)). 
 
-(3) Given the trade costs and technology parameters (specifically the S's in EK's notation), I then compute trade flows and compare them to data. I do this via simmulation by calling a .mex file. Soon I will post the native MATLAB code. One could also use the formulas from EK or Waugh to construct these as well. 
+(3) Given the trade costs and technology parameters (specifically the S's in EK's notation), I then compute trade flows and compare them to data. I do this via simmulation by calling the file sim_trade_pattern_ek.m. One could also use the formulas from EK or Waugh to construct these as well. 
 
