@@ -1,5 +1,9 @@
 # Gravity-Estimation
-Estimates parameters of Eaton and Kortum (2002) or Waugh(2010) via STATA and computes bilateral trade flows.
+Estimates gravity parameters as in... 
+
+[1] Eaton, Jonathan, and Samuel Kortum. "Technology, geography, and trade." Econometrica 70.5 (2002): 1741-1779.
+
+[2] Waugh, Michael. "International trade and income differences." The American Economic Review 100.5 (2010): 2093-2124. via STATA and computes bilateral trade flows.
 
 Often I get asked how to perform the regressions in Waugh(2010) and inturn EK(2002). My initial code to perform the ``gravity'' regressions (as posted on the AER replication site) is very convoluted, hard to understand. The goal here is to simplify things and make it easy.
 
