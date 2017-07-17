@@ -19,3 +19,4 @@ This code does several things...
 
 (3) Given the trade costs and technology parameters (specifically the S's in EK's notation), I then compute trade flows and compare them to data. I do this via simmulation by calling the file sim_trade_pattern_ek.m. One could also use the formulas from EK or Waugh to construct these as well. 
 
+Note, now the respository [**Create Trade Share Matrix**](https://github.com/mwaugh0328/Create-Trade-Share-Matrix-JIE-SW-2014) generates a gravity data set that is useable with this set of code. 
