@@ -1,7 +1,7 @@
 # Gravity-Estimation
 Estimates gravity parameters as in... 
 
-[1] Eaton, Jonathan, and Samuel Kortum. "Technology, geography, and trade." <br>
+[1] Eaton, Jonathan, and Samuel Kortum. "[**Technology, geography, and trade**](https://www.jstor.org/stable/3082019)." <br>
 Econometrica 70.5 (2002): 1741-1779.
 
 [2] Waugh, Michael. "[**International trade and income differences**](http://www.waugheconomics.com/uploads/2/2/5/6/22563786/sr435_itid.pdf)." <br>
